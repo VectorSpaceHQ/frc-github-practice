@@ -1,6 +1,6 @@
 # Instructions
 
-The [Vector Space github](ttps://github.com/VectorSpaceHQ/)
+The [Vector Space github](https://github.com/VectorSpaceHQ/)
 
 ## Some initial setup
 
