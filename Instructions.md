@@ -15,6 +15,9 @@ git config --global user.name "Your Name"
 git remote -v
 git branch
 git checkout testing
+git log --oneline
+git add Instructions.md
+git commit -m "Some more common shell commands"
 git status
 git fetch
 git pull
