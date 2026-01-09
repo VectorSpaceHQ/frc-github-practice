@@ -4,4 +4,4 @@ Welcome to FRC!
 
 This is some additional text that only exists in branch testing.
 
-juice kick pogo smooth worm
+juice kick is a lie
